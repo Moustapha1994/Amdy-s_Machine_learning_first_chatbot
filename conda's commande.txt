@@ -1,0 +1,9 @@
+- conda create -n tf-gpu tensorflow-gpu
+
+- conda activate tf-gpu
+
+-conda install ... (for install needs packages)
+
+- python train_bot21.py
+
+- python bot21.py
